@@ -1,0 +1,13 @@
+.Todo {
+  display: flex;
+  margin: 0 -3rem 4px;
+  padding: 1.1rem 3rem;
+  justify-content: space-between;
+  align-items: center;
+  background: rgb(0, 140, 255);
+}
+
+.Todo-task {
+  position: relative;
+  transition: opacity 0.4s linear;
+}
